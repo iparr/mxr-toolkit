@@ -1,5 +1,5 @@
 <?php
-/* YouTube embed assistant snippet for ModX Revolution
+/* ytCall - YouTube embed assistant snippet for ModX Revolution
 	By Ian Parr - http://devolute.net */
 
 	// break if no YouTube ID
