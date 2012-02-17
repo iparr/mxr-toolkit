@@ -1,11 +1,10 @@
 <?php
-/* audioWidget - HTML5 audio embed assistant snippet for ModX Revolution
+/*	audioWidget - HTML5 audio embed assistant snippet for ModX Revolution
 	By Ian Parr - http://devolute.net
 
 	This will just produce the correct, clean markup.
 	Recommend using the wonderful SoundManager 2 for javascript control & interfaceless Flash fallback
 	(http://www.schillmania.com/projects/soundmanager2/)
-
 */
 
 	// display error if no mp3 link provided
